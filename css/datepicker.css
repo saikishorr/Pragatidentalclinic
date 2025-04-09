@@ -54,7 +54,7 @@
 	font-weight: 400;
 }
 .datepicker td.day:hover {
-  background: #1A76D1;
+  background: #41286C;
   cursor: pointer;
   color:#fff;
 }
@@ -68,7 +68,7 @@
 .datepicker td.active,
 .datepicker td.active:hover {
   color: #ffffff;
-  background-color: #1A76D1;
+  background-color: #41286C;
   color: #fff;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
 }
@@ -85,8 +85,8 @@
 .datepicker td.active[disabled],
 .datepicker td.active:hover[disabled] {
   color: #ffffff;
-  background-color: #1A76D1;
-  *background-color: #1A76D1;
+  background-color: #41286C;
+  *background-color: #41286C;
 }
 .datepicker td.active:active,
 .datepicker td.active:hover:active,
@@ -107,11 +107,11 @@
   border-radius: 4px;
 }
 .datepicker td span:hover {
-  background: #1A76D1;
+  background: #41286C;
 }
 .datepicker td span.active {
   color: #ffffff;
-  background-color: #1A76D1;
+  background-color: #41286C;
   color: #fff;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
 }
@@ -143,7 +143,7 @@
   cursor: pointer;
 }
 .datepicker thead tr:first-child th:hover {
-  background: #1A76D1;
+  background: #41286C;
   color:#fff;
 }
 .input-append.date .add-on i,
