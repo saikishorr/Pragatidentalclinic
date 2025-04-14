@@ -1,8 +1,8 @@
 /* =====================================
-Template Name: 	Mediplus.
+Template Name: 	Paragti.
 Author Name: Naimur Rahman
 Website: http://wpthemesgrid.com/
-Description: Mediplus - Doctor HTML Template.
+Description: Paragti Dental Clinic HTML Template
 Version:	1.1
 ========================================*/   
 /*======================================
@@ -48,6 +48,10 @@ Version:	1.1
 /*=============================
 	Global CSS 
 ===============================*/
+html {
+	scroll-behavior: smooth;
+  }
+
 body{
     font-family: 'Poppins', sans-serif;
 	font-weight: 400;
@@ -904,7 +908,7 @@ body{
 	padding:120px 0;
 }
 .fun-facts{
-	background:url('img/fun-bg.jpg');
+	background:url('img/bread-1.png');
 	background-size:cover;
 	background-repeat:no-repeat;
 }
@@ -1070,7 +1074,7 @@ body{
 	Start Call to action CSS
 =================================*/
 .call-action{
-	background-image:url('img/call-bg.jpg');
+	background-image:url('img/call-bg-1.png');
 	background-size:cover;
 	background-position:center;
 	position:relative;
@@ -2373,7 +2377,7 @@ body{
 }
 /* Blockqoute */
 .news-single blockquote {
-	background-image: url('img/blockqoute-bg.jpg');
+	background-image: url('img/bread-1.png');
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -4170,3 +4174,9 @@ body{
 /*=========================
 	End Footer CSS
 ===========================*/
+
+
+.nav-linkcu .active {
+	color: #ff6600; /* or any highlight style */
+	font-weight: bold;
+  }
