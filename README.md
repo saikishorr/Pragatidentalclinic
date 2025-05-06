@@ -48,3 +48,35 @@ This is a private project. If you are a developer or designer collaborating on t
 ---
 
 Thank you for visiting Pragati Dental Clinic!
+
+
+no Emergency - DOne
+
+
+2nd slider img change no.5  - done
+3rd slider img change no.15 - done
+
+services: --
+crown and Bridge/implants
+Pediatrics treatment
+tobacco Habit Pervention and Councilling 
+cancer detection(perventation and treament)
+
+Tobacco Habit Counseling/cancer detection -- instead of Tobacco. 
+
+instead of Teeth filing -- Restorative Dentistry
+
+
+change 1994 to 1996 -done 
+
+make it 25+ years of experenice - done
+
+
+in contact form remove dept change it to Problem and add drpodown what services are there that only. - done
+
+in opening hours - Done
+morning only by appoiments - Done
+
+
+create whatsapp for 7666 no. 
+

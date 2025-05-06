@@ -83,12 +83,12 @@ body{
 }
 .pro-features li.big-title {
 	font-weight: 600;
-	color: #41286C;
+	color: #21618c;
 	font-size: 15px;
 }
 .pro-features li.title {
 	font-weight: 600;
-	color: #41286C;
+	color: #21618c;
 	font-size: 15px;
 }
 .pro-features .button{}
@@ -117,7 +117,7 @@ body{
 	line-height: 45px;
 	font-size: 14px;
 	border-radius: 5px 0 0 5px;
-	background: #41286C;
+	background: #21618c;
 	text-align: center;
 	color: #fff;
 	top: 0;
@@ -131,7 +131,7 @@ body{
 	bottom: 15px;
 	right: 15px;
 	padding: 10px 20px;
-	background: #41286C;
+	background: #21618c;
 	color: #fff;
 	font-size: 25px;
 	width: 45px;
@@ -174,7 +174,7 @@ body{
 	line-height: 45px;
 	font-size: 21px;
 	border-radius: 5px 0 0 5px;
-	background: #41286C;
+	background: #21618c;
 	text-align: center;
 	color: #fff !important;
 	top: 0;
@@ -204,7 +204,7 @@ body{
 	cursor:pointer;
 }
 .color-plate span.color1{
-	background:#41286C;
+	background:#21618c;
 }
 .color-plate span.color2{
 	background:#2196F3;
@@ -277,7 +277,7 @@ body{
 	font-weight:400;
 }
 .header .top-link li:hover a{
-	color:#41286C;
+	color:#21618c;
 }
 .header .top-contact{
 	float:right;
@@ -294,10 +294,10 @@ body{
 	font-size:14px;
 }
 .header .top-contact li a:hover{
-	color:#41286C;
+	color:#21618c;
 }
 .header .top-contact li i{
-	color:#41286C;
+	color:#21618c;
 	margin-right:8px;
 }
 .header .header-inner {
@@ -348,7 +348,7 @@ body{
 	bottom: 0;
 	height: 3px;
 	width:0%;
-	background: #41286C;
+	background: #21618c;
 	border-radius: 5px 5px 0 0;
 	opacity:0;
 	visibility:hidden;
@@ -362,7 +362,7 @@ body{
 	width: 100%;
 }
 .header .nav li.active a{
-	color:#41286C;
+	color:#21618c;
 }
 .header .nav li:hover a:before{
 	opacity:1;
@@ -370,7 +370,7 @@ body{
 	visibility:visible;
 }
 .header .nav li:hover a{
-	color:#41286C;
+	color:#21618c;
 }
 .header .nav li a i {
 	display: inline-block;
@@ -416,7 +416,7 @@ body{
 	width: 40px;
 	line-height: 40px;
 	color: #fff;
-	background: #41286C;
+	background: #21618c;
 	border-radius: 4px;
 	text-align: center;
 	font-size: 15px;
@@ -484,7 +484,7 @@ body{
 	border-bottom:0px;
 }
 .header .nav li .dropdown li:hover a{
-	color:#41286C;
+	color:#21618c;
 }
 .header .nav li .dropdown li a:hover{
 	border-color:transparent;
@@ -509,7 +509,7 @@ body{
 	width: 35px;
 	line-height: 35px;
 	text-align: center;
-	background: #41286C;
+	background: #21618c;
 	border-radius: 4px;
 	display: block;
 	font-size: 12px;
@@ -562,7 +562,7 @@ body{
 	height: 50px;
 	top: 0;
 	width: 50px;
-	background: #41286C;
+	background: #21618c;
 	border: none;
 	color: #fff;
 	border-radius: 0 4px 4px 0;
@@ -570,7 +570,7 @@ body{
 }
 .header .search-form button:hover{
 	background:#fff;
-	color:#41286C;
+	color:#21618c;
 	border-color:#e6e6e6;
 }
 /* Header Sticky */
@@ -614,7 +614,7 @@ body{
 	line-height: 42px;
 }
 .slider .single-slider h1 span{
-	color:#41286C;
+	color:#21618c;
 }
 .slider .single-slider p {
 	color: #2C2D3F;
@@ -626,7 +626,7 @@ body{
 }
 .slider .single-slider .btn{
 	color:#fff;
-	background:#41286C;
+	background:#21618c;
 	font-weight:500;
 	display:inline-block;
 	margin:0;
@@ -640,7 +640,7 @@ body{
 	color:#fff;
 }
 .slider .single-slider .btn.primary:before{
-	background:#41286C;
+	background:#21618c;
 }
 .slider .owl-carousel .owl-nav {
 	margin: 0;
@@ -654,7 +654,7 @@ body{
 	width: 50px;
 	line-height: 50px;
 	text-align: center;
-	background: #41286C;
+	background: #21618c;
 	color: #fff;
 	font-size: 26px;
 	position: absolute;
@@ -709,7 +709,7 @@ body{
 	text-align: left;
 	z-index:3;
 	border-radius:5px;
-	background:#41286C;
+	background:#21618c;
 	 -webkit-transition: all .3s ease-out 0s;
     -moz-transition: all .3s ease-out 0s;
     -ms-transition: all .3s ease-out 0s;
@@ -732,7 +732,7 @@ body{
     margin: 0 auto;
     width: 80%;
     height: 90%;
-    background:#41286C;
+    background:#21618c;
     opacity: 0;
     filter: blur(10px);
     -webkit-transition: all .3s ease-out 0s;
@@ -855,7 +855,7 @@ body{
 	right: -72px;
 	top: 60px;
 	width: 118px;
-	border-bottom: 3px dotted #41286C;
+	border-bottom: 3px dotted #21618c;
 }
 .Feautes .single-features.last::before{
 	display:none;
@@ -865,7 +865,7 @@ body{
 }
 .Feautes .single-features .signle-icon i{
 	font-size:50px;
-	color:#41286C;
+	color:#21618c;
 	position:absolute;
 	left:50%;
 	margin-left:-50px;
@@ -881,7 +881,7 @@ body{
 	transition:all 0.4s ease;
 }
 .Feautes .single-features:hover .signle-icon i{
-	background:#41286C;
+	background:#21618c;
 	color:#fff;
 	border-color:transparent;
 }
@@ -937,7 +937,7 @@ body{
 	border-radius: 50%;
 }
 .fun-facts .single-fun:hover i{
-	color:#41286C;
+	color:#21618c;
 	background:#fff;
 	border-color:transparent;
 }
@@ -982,7 +982,7 @@ body{
 	bottom:0;
 	height:2px;
 	width:50px;
-	background:#41286C;
+	background:#21618c;
 }
 .why-choose .choose-left p{
 	margin-bottom:35px;
@@ -1000,7 +1000,7 @@ body{
 	width:15px;
 	line-height:15px;
 	text-align:center;
-	background:#41286C;
+	background:#21618c;
 	color:#fff;
 	font-size:14px;
 	border-radius:100%;
@@ -1033,7 +1033,7 @@ body{
 	margin-left: -35px;
 	margin-top: -35px;
 	font-size: 21px;
-	background: #41286C;
+	background: #21618c;
 	padding-left: 4px;
 }
 .why-choose .choose-right .video:hover{
@@ -1100,13 +1100,13 @@ body{
 	margin-right:20px;
 	font-weight:500;
 	border:1px solid #fff;
-	color:#41286C;
+	color:#21618c;
 }
 .call-action .content .btn:before{
-	background:#41286C;
+	background:#21618c;
 }
 .call-action .content .btn:hover{
-	background:#41286C;
+	background:#21618c;
 	color:#fff;
 }
 .call-action .content .btn:last-child{
@@ -1122,7 +1122,7 @@ body{
 	background:#fff;
 }
 .call-action .content .second:hover{
-	color:#41286C;
+	color:#21618c;
 	border-color:transparent;
 	background:#fff;
 }
@@ -1153,7 +1153,7 @@ body{
 	top:0;
 	height:100%;
 	width:100%;
-	background:#41286C;
+	background:#21618c;
 	opacity:0;
 	visibility:hidden;
 	-webkit-transition:all 0.4s ease;
@@ -1166,7 +1166,7 @@ body{
 	visibility:visible;
 }
 .portfolio .single-pf .btn {
-	color: #41286C;
+	color: #21618c;
 	z-index: 3;
 	background: #fff;
 	position: absolute;
@@ -1212,7 +1212,7 @@ body{
 	width: 50px;
 	line-height: 45px;
 	background: #fff;
-	color: #41286C;
+	color: #21618c;
 	position: absolute;
 	margin: 0;
 	border-radius: 100%;
@@ -1225,7 +1225,7 @@ body{
 }
 .pf-details .image-slider .owl-carousel .owl-nav div:hover{
 	color:#fff;
-	background:#41286C;
+	background:#21618c;
 }
 .pf-details .image-slider .owl-carousel .owl-controls .owl-nav .owl-prev{
 	left:20px;
@@ -1241,7 +1241,7 @@ body{
 	width:100%;
 }
 .pf-details .date{
-	background: #41286C;
+	background: #21618c;
 	display: block;
 	padding: 20px;
 	text-align: center;
@@ -1306,7 +1306,7 @@ body{
 .pf-details .body-text .share ul li a:hover{
 	color:#fff;
 	border-color:transparent;
-	background:#41286C;
+	background:#21618c;
 }
 /*==========================
 	End Portfolio CSS
@@ -1322,7 +1322,7 @@ body{
 }
 .services .single-service i{
 	font-size:45px;
-	color:#41286C;
+	color:#21618c;
 	position:absolute;
 	left:0;
 	-webkit-transition:all 0.4s ease;
@@ -1340,7 +1340,7 @@ body{
 	font-weight:600;
 }
 .services .single-service h4 a:hover{
-	color:#41286C;
+	color:#21618c;
 }
 .services .single-service p{
 	color:#868686;
@@ -1365,7 +1365,7 @@ body{
 .services-details-img blockquote {
 	font-size: 15px;
 	color: #4a6f8a;
-	background-color: #41286C;
+	background-color: #21618c;
 	padding: 30px 75px;
 	line-height: 26px;
 	position: relative;
@@ -1399,7 +1399,7 @@ body{
 	font-weight: 600;
 	font-size: 30px;
 	margin-bottom: 15px;
-	border-left: 3px solid #41286C;
+	border-left: 3px solid #21618c;
 	padding-left: 15px;
 }
 .service-details-inner p {
@@ -1523,7 +1523,7 @@ body{
 	background:transparent;
 }
 .departments .department-tab .nav li a.active i{
-	color:#41286C;
+	color:#21618c;
 }
 .departments .department-tab .nav li a {
 	color: #fff;
@@ -1535,7 +1535,7 @@ body{
 	padding:0 10px 20px 10px;
 }
 .departments .department-tab .nav li a.active{
-	border-color:#41286C;
+	border-color:#21618c;
 }
 .departments .department-tab .nav li span{
 	display:block;
@@ -1574,7 +1574,7 @@ body{
 	background:#2C2D3F;
 }
 .departments .department-tab .tab-pane .department-left .p1 {
-	color: #41286C;
+	color: #21618c;
 	font-weight: 500;
 	margin-bottom: 18px;
 }
@@ -1597,7 +1597,7 @@ body{
 	width: 15px;
 	line-height: 15px;
 	color: #fff;
-	background: #41286C;
+	background: #21618c;
 	text-align: center;
 	border-radius: 100%;
 	font-size: 8px;
@@ -1637,7 +1637,7 @@ body{
 }
 .pricing-table .single-table .icon i{
 	font-size:65px;
-	color:#41286C;
+	color:#21618c;
 }
 .pricing-table .single-table .title {
 	font-size: 21px;
@@ -1648,7 +1648,7 @@ body{
 .pricing-table .single-table .amount {
 	font-size:36px;
 	font-weight:600;
-	color:#41286C;
+	color:#21618c;
 }
 .pricing-table .single-table .amount span{
 	display:inline-block;
@@ -1687,7 +1687,7 @@ body{
 	line-height: 16px;
 	text-align: center;
 	color: #fff;
-	background: #41286C;
+	background: #21618c;
 	border-radius: 100%;
 	padding-left: 1px;
 }
@@ -1850,7 +1850,7 @@ body{
 	color: #2C2D3F;
 }
 .team .t-bottom h2 a:hover{
-	color:#41286C;
+	color:#21618c;
 }
 /*-- Doctor Details --*/
 .doctor-details-left {
@@ -1889,7 +1889,7 @@ body{
 }
 .doctor-details-item .doctor-details-contact .basic-info li i {
 	display: inline-block;
-	color: #41286C;
+	color: #21618c;
 	margin-right: 8px;
 	font-size: 16px;
 	position: relative;
@@ -1920,7 +1920,7 @@ body{
 }
 .doctor-details-area .doctor-details-left .social li a:hover{
 	color:#fff;
-	background:#41286C;
+	background:#21618c;
 	border-color:transparent;
 }
 .doctor-details-item .doctor-details-work h3 {
@@ -2039,7 +2039,7 @@ body{
 	bottom:0;
 	height:2px;
 	width:0%;
-	background:#41286C;
+	background:#21618c;
 	opacity:0;
 	visibility:hidden;
 	-webkit-transition:all 0.4s ease;
@@ -2062,7 +2062,7 @@ body{
 	font-weight: 500;
 }
 .blog .single-news .news-body h2 a:hover{
-	color:#41286C;
+	color:#21618c;
 }
 .blog .single-news .news-content p {
 	font-weight: 400;
@@ -2075,7 +2075,7 @@ body{
 	display: inline-block;
 	font-size: 14px;
 	margin-bottom: 5px;
-	background: #41286C;
+	background: #21618c;
 	color: #fff;
 	padding: 4px 15px;
 	border-radius: 3px;
@@ -2117,7 +2117,7 @@ body{
 	bottom: -1px;
 	height: 100%;
 	width: 3px;
-	background: #41286C;
+	background: #21618c;
 }
 .main-sidebar .single-widget:last-child{
 	margin:0;
@@ -2162,7 +2162,7 @@ body{
 	border-radius: 0 5px 5px 0;
 }
 .main-sidebar .search .button:hover {
-	background:#41286C;
+	background:#21618c;
 	color:#fff;
 }
 /* Category List */
@@ -2181,7 +2181,7 @@ body{
 	font-size:14px;
 }
 .main-sidebar .categor-list li a:hover{
-	color:#41286C;
+	color:#21618c;
 	padding-left:7px;
 }
 .main-sidebar .categor-list li a i {
@@ -2234,7 +2234,7 @@ body{
 	margin-top: 0;
 }
 .main-sidebar .single-post .content h5 a:hover{
-	color:#41286C;
+	color:#21618c;
 }
 .main-sidebar .single-post .content .comment li{
 	color:#888;
@@ -2271,7 +2271,7 @@ body{
 }
 .main-sidebar .side-tags .tag a:hover{
 	color:#fff;
-	background:#41286C;
+	background:#21618c;
 	border-color:transparent;
 }
 /* News Single */
@@ -2302,7 +2302,7 @@ body{
 	font-weight: 600;
 }
 .news-single .news-title a:hover {
-	color: #41286C;
+	color: #21618c;
 }
 /* Blog Meta */
 .news-single{
@@ -2329,7 +2329,7 @@ body{
 }
 .news-single .meta span i {
 	margin-right: 5px;
-	color:#41286C;
+	color:#21618c;
 }
 .news-single .meta-left{
 	float:left;
@@ -2455,7 +2455,7 @@ body{
 }
 .news-single .prev-next li a:hover{
 	color:#fff;
-	background:#41286C;
+	background:#21618c;
 	border-color:transparent;
 }
 /* Blog Comments */
@@ -2574,7 +2574,7 @@ body{
 	display: inline-block;
 	margin-top: 10px;
 	border-radius: 4px;
-	background:#41286C;
+	background:#21618c;
 	color:#fff;
 }
 .news-single .single-comments a:hover{
@@ -2626,7 +2626,7 @@ body{
 	left: 12px;
 	top: 17px;
 	z-index: 1;
-	color: #41286C;
+	color: #21618c;
 }
 .news-single .form-group input {
 	width: 100%;
@@ -2697,7 +2697,7 @@ body{
 }
 .news-single .form-group.button .btn{
 	background:#fff;
-	background:#41286C;
+	background:#21618c;
 	color:#fff;
 }
 .news-single .form-group.button .btn:hover{
@@ -2798,7 +2798,7 @@ body{
 }
 .appointment .form-group .list li:hover {
 	color:#fff;
-	background: #41286C;
+	background: #21618c;
 }
 .appointment .appointment-image{}
 .appointment.single-page .button .btn{
@@ -2815,7 +2815,7 @@ body{
 	color:#868686;
 }
 .appointment.single-page .work-hour{
-	background:#41286C;
+	background:#21618c;
 	padding: 40px;
 	box-shadow: 0px 0px 10px #00000024;
 	border-radius: 5px;
@@ -2888,7 +2888,7 @@ body{
 	bottom:0;
 	height:2px;
 	width:50px;
-	background:#41286C;
+	background:#21618c;
 }
 .login .login-form p {
 	font-size: 14px;
@@ -2900,7 +2900,7 @@ body{
 .login .login-form p a{
 	display:inline-block;
 	margin-left:5px;
-	color:#41286C;
+	color:#21618c;
 }
 .login .login-form p a:hover{
 	color:#2C2D3F;
@@ -2936,7 +2936,7 @@ body{
 	width:100%;
 }
 .login .form .btn:hover{
-	background:#41286C;
+	background:#21618c;
 	color:#fff;
 }
 .login .login-form .checkbox {
@@ -2966,7 +2966,7 @@ body{
 	top: 5px;
 	width: 15px;
 	height: 15px;
-	border: 1px solid #41286C;
+	border: 1px solid #21618c;
 	border-radius: 100%;
 }
 .login .login-form .checkbox label::after {
@@ -2984,7 +2984,7 @@ body{
 	transition: all 0.4s ease;
 	display: block;
 	font-size: 9px;
-	background: #41286C;
+	background: #21618c;
 	border-radius: 100%;
 }
 .login .login-form .checkbox label.checked::after{
@@ -3000,7 +3000,7 @@ body{
 	font-weight:400;
 }
 .login .login-form .lost-pass:hover{
-	color:#41286C;
+	color:#21618c;
 }
 /*====================
    End Login CSS
@@ -3043,7 +3043,7 @@ body{
 	bottom:0;
 	height:2px;
 	width:50px;
-	background:#41286C;
+	background:#21618c;
 }
 .register .register-form p {
 	font-size: 14px;
@@ -3055,7 +3055,7 @@ body{
 .register .register-form p a{
 	display:inline-block;
 	margin-left:5px;
-	color:#41286C;
+	color:#21618c;
 }
 .register .register-form p a:hover{
 	color:#2C2D3F;
@@ -3091,7 +3091,7 @@ body{
 	width:100%;
 }
 .register .form .btn:hover{
-	background:#41286C;
+	background:#21618c;
 	color:#fff;
 }
 .register .register-form .checkbox {
@@ -3121,7 +3121,7 @@ body{
 	top: 5px;
 	width: 15px;
 	height: 15px;
-	border: 1px solid #41286C;
+	border: 1px solid #21618c;
 	border-radius: 100%;
 }
 .register .register-form .checkbox label::after {
@@ -3139,7 +3139,7 @@ body{
 	transition: all 0.4s ease;
 	display: block;
 	font-size: 9px;
-	background: #41286C;
+	background: #21618c;
 	border-radius: 100%;
 }
 .register .register-form .checkbox label.checked::after{
@@ -3150,7 +3150,7 @@ body{
 .register .register-form  .terms{
 	display:inline-block;
 	margin-left:5px;
-	color:#41286C;
+	color:#21618c;
 }
 .register .register-form .terms:hover{
 	color:#2C2D3F;
@@ -3198,7 +3198,7 @@ body{
 }
 .accordion a:hover {
   color:#fff !important;
-  background:#41286C !important;
+  background:#21618c !important;
 }
 .accordion a:after {
   position: absolute;
@@ -3225,8 +3225,8 @@ body{
 }
 .accordion li a.active {
   color: #ffffff;
-  background-color: #41286C;
-  border: 1px solid #41286C;
+  background-color: #21618c;
+  border: 1px solid #21618c;
 }
 .accordion li a.active:after {
   content: "-";
@@ -3270,7 +3270,7 @@ body{
 	bottom:0;
 	height:2px;
 	width:50px;
-	background:#41286C;
+	background:#21618c;
 }
 .contact-us .contact-us-form p {
 	font-size: 14px;
@@ -3321,7 +3321,7 @@ body{
 	width:100%;
 }
 .contact-us .form .btn:hover{
-	background:#41286C;
+	background:#21618c;
 	color:#fff;
 }
 .contact-us .contact-us-form .checkbox {
@@ -3351,7 +3351,7 @@ body{
 	top: 5px;
 	width: 15px;
 	height: 15px;
-	border: 1px solid #41286C;
+	border: 1px solid #21618c;
 	border-radius: 100%;
 }
 .contact-us .contact-us-form .checkbox label::after {
@@ -3369,7 +3369,7 @@ body{
 	transition: all 0.4s ease;
 	display: block;
 	font-size: 9px;
-	background: #41286C;
+	background: #21618c;
 	border-radius: 100%;
 }
 .contact-us .contact-us-form .checkbox label.checked::after{
@@ -3381,7 +3381,7 @@ body{
 	margin-top:50px;
 }
 .contact-us .single-info {
-	background: #41286C;
+	background: #21618c;
 	padding: 40px 60px;
 	height: 150px;
 	border-radius: 10px;
@@ -3402,7 +3402,7 @@ body{
     margin: 0 auto;
     width: 80%;
     height: 90%;
-    background:#41286C;
+    background:#21618c;
     opacity: 0;
     filter: blur(10px);
     -webkit-transition: all .3s ease-out 0s;
@@ -3459,7 +3459,7 @@ body{
 .error-page .error-inner h1 {
 	font-size: 140px;
 	text-shadow: 3px 5px 2px #3333;
-	color: #41286C;
+	color: #21618c;
 	font-weight: 700;
 }
 .error-page .error-inner h1 span {
@@ -3496,7 +3496,7 @@ body{
 	height: 50px;
 	border-radius: 5px;
 	cursor: pointer;
-	background: #41286C;
+	background: #21618c;
 	display: inline-block;
 	position: relative;
 	top: -2px;
@@ -3522,7 +3522,7 @@ body{
 .mail-seccess .success-inner h1 {
 	font-size: 100px;
 	text-shadow: 3px 5px 2px #3333;
-	color: #41286C;
+	color: #21618c;
 	font-weight: 700;
 }
 .mail-seccess .success-inner h1 span {
@@ -3618,7 +3618,7 @@ body{
 .doctor-calendar-table table thead tr th {
   vertical-align: middle;
   text-align: center;
-  background-color: #41286C;
+  background-color: #21618c;
   border: none;
   color: #ffffff;
   text-transform: uppercase;
@@ -3665,7 +3665,7 @@ body{
 .doctor-calendar-table table tbody tr td span.time {
   display: inline-block;
   background-color: #dff5e8;
-  color: #41286C;
+  color: #21618c;
   width: 65px;
   height: 65px;
   border-radius: 50%;
@@ -3676,8 +3676,8 @@ body{
   font-size: 16px;
 }
 .doctor-calendar-table table tbody tr td:hover {
-  background-color: #41286C;
-  border-color: #41286C;
+  background-color: #21618c;
+  border-color: #21618c;
 }
 .doctor-calendar-table table tbody tr td:hover h3 {
   color: #ffffff;
@@ -3687,7 +3687,7 @@ body{
 }
 .doctor-calendar-table table tbody tr td:hover span.time {
   background-color: #ffffff;
-  color: #41286C;
+  color: #21618c;
 }
 .doctor-calendar-table table tbody tr:last-child td {
   border-bottom: none;
@@ -3723,7 +3723,7 @@ body{
 .about-content span {
   display: block;
   margin-bottom: 5px;
-  color: #41286C;
+  color: #21618c;
   font-size: 17px;
 }
 .about-content h2 {
@@ -3753,8 +3753,8 @@ body{
 	line-height: 25px;
 	text-align: center;
 	border-radius: 100%;
-	background-color: #41286C2B;
-	color: #41286C;
+	background-color: #21618c2B;
+	color: #21618c;
 	-webkit-transition: 0.5s;
 	transition: 0.5s;
 	display: inline-block;
@@ -3764,7 +3764,7 @@ body{
 	top: -2px;
 }
 .about-content ul li:hover i {
-  background-color: #41286C;
+  background-color: #21618c;
   color: #ffffff;
 }
 .about-content ul li:last-child {
@@ -3798,7 +3798,7 @@ body{
   height: 60px;
   line-height: 60px;
   border-radius: 100%;
-  background-color: #41286C;
+  background-color: #21618c;
   color: #ffffff;
   font-size: 25px;
   -webkit-transition: 0.5s;
@@ -3826,7 +3826,7 @@ body{
   position: absolute;
   left: 0;
   top: 0;
-  background-color: #41286C;
+  background-color: #21618c;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -3853,7 +3853,7 @@ body{
 }
 .single-vision-box:hover .icon {
   background-color: #fff;
-  color: #41286C;
+  color: #21618c;
 }
 .single-vision-box:hover h3 {
   color: #ffffff;
@@ -3893,7 +3893,7 @@ body{
 .our-mission-content .sub-title {
   display: block;
   margin-bottom: 5px;
-  color: #41286C;
+  color: #21618c;
   font-size: 17px;
 }
 .our-mission-content h2 {
@@ -3940,7 +3940,7 @@ body{
   line-height: 50px;
   text-align: center;
   border-radius: 50%;
-  color: #41286C;
+  color: #21618c;
   font-size: 20px;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -3954,7 +3954,7 @@ body{
   font-size: 17px;
 }
 .our-mission-content ul li:hover .icon {
-  background-color: #41286C;
+  background-color: #21618c;
   color: #ffffff;
   border-radius: 100%;
 }
@@ -3973,7 +3973,7 @@ body{
 .footer .footer-top{
 	padding:100px 0px;
 	position:relative;
-	background:#41286C;
+	background:#21618c;
 }
 .footer .footer-top:before{
 	position:absolute;
@@ -4012,7 +4012,7 @@ body{
 	font-size: 16px;
 }
 .footer .single-footer .social li a:hover{
-	color:#41286C;
+	color:#21618c;
 	background:#fff;
 	border-color:transparent;
 }
@@ -4145,7 +4145,7 @@ body{
 	-moz-transition: all 0.4s ease;
 	transition: all 0.4s ease;
 	border-radius: 0 5px 5px 0;
-	color: #41286C;
+	color: #21618c;
 	font-size: 25px;
 }
 .footer .single-footer .newsletter-inner .button i{
@@ -4157,7 +4157,7 @@ body{
 	color:#2C2D3F;
 }
 .footer .copyright{
-	background:#41286C;
+	background:#21618c;
 	padding:25px 0px 25px 0px;
 	text-align:center;
 }
@@ -4180,3 +4180,91 @@ body{
 	color: #ff6600; /* or any highlight style */
 	font-weight: bold;
   }
+
+
+  .contact-info {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+  }
+  
+  .contact-info li {
+	display: flex;
+	align-items: center;
+	margin-bottom: 10px;
+	color: #fff; /* Or your footer text color */
+	font-size: 15px;
+  }
+  
+  .contact-info li i {
+	font-size: 18px;
+	margin-right: 10px;
+	color: #ddd; /* Slightly lighter icon color */
+  }
+  
+  .contact-info li a {
+	color: inherit;
+	text-decoration: none;
+	transition: color 0.3s ease;
+  }
+  
+  .contact-info li a:hover {
+	color: #00bcd4; /* or your brand's accent color */
+  }
+  
+
+  /* Services Grid Container */
+.services-sections {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: 20px;
+	padding: 40px;
+	max-width: 1200px;
+	margin: 0 auto;
+  }
+  
+  /* Individual Service Box */
+  .service-boxs {
+	position: relative;
+	width: 100%;
+	aspect-ratio: 1 / 1; /* Makes the box a square */
+	background-size: cover;
+	background-position: center;
+	border-radius: 20px;
+	overflow: hidden;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .service-boxs:hover {
+	transform: scale(1.03);
+	box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Service Title Text */
+  .service-texts {
+	background-color:#121521;
+	color: #fff;
+	font-weight: bold;
+	font-size: 24px;
+	padding: 10px 15px;
+	text-align: center;
+	border-radius: 6px;
+  }
+
+  /* Make the grid responsive on smaller screens */
+@media (max-width: 992px) {
+	.services-sections {
+	  grid-template-columns: repeat(2, 1fr);
+	}
+  }
+  
+  @media (max-width: 600px) {
+	.services-sections {
+	  grid-template-columns: 1fr;
+	}
+  }
+  
